@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Vast.ai GPU benchmark harness"
+authors:
+  - family-names: Rangel
+    given-names: Lucas
+type: software
+date-released: 2026-10-28
+repository-code: "https://github.com/LucasRangelSSouza/vast-gpu-benchmark-harness"

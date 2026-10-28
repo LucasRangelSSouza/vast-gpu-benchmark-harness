@@ -1,0 +1,10 @@
+{
+ "reconciled_total_usd": 50.79,
+ "usd_brl": 4.9652,
+ "deposit_observed_usd": 6.88,
+ "baseline_credit_usd": 49.8,
+ "final_credit_usd": 5.89,
+ "estimated_hourly_rental_usd": 27.25,
+ "estimated_hourly_rental_from_budget_ledger_usd": 21.58,
+ "late_sessions_usd": 5.67
+}

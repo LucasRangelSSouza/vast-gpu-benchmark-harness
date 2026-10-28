@@ -1,0 +1,18 @@
+{
+ "cost_full_load_5090_usd_per_m": 0.2200408208619167,
+ "hourly_estimate_usd": 27.25,
+ "ledger_hours": 43.504,
+ "ledger_rows": 166,
+ "ledger_usd": 27.253999999999994,
+ "median_hourly_price": 0.497,
+ "most_expensive_gpu": "RTX 5090",
+ "most_expensive_gpu_usd": 8.536,
+ "partial_share_usd": 0.14526308064871213,
+ "price_5090_pool32": 0.6352499825016472,
+ "reconciled_over_hourly": 1.8638532110091743,
+ "reconciled_total_usd": 50.79,
+ "service_time_median_s": 6.1923,
+ "util_ceiling_1_slot": 0.055,
+ "util_ceiling_32_slots": 0.79,
+ "util_ceiling_8_slots": 0.545
+}

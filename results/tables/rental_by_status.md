@@ -1,0 +1,5 @@
+| status | rows | usd | hours | share_usd |
+|---|---|---|---|---|
+| complete | 57 | 23.3 | 37.58 | 0.855 |
+| partial | 48 | 3.959 | 5.928 | 0.145 |
+| running | 49 | 0 | 0 | 0 |
